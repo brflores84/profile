@@ -109,3 +109,13 @@ a:hover {
 #movies img {
     width: 100px;
 }
+
+#sidebar {
+    background-color: #41AAA8;
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    bottom: 0px;
+    width: 120px;
+    text-align: center;
+}
